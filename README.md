@@ -1,0 +1,1 @@
+This code represents a mathematical model created by British Mathematician John Conway. This model simulates the evolution of cells by having set rules and actions for each cell according on its neighboring cells. 
